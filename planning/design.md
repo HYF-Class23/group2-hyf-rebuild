@@ -2,7 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> The website design for Hyf rebuild
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
@@ -13,5 +13,5 @@
 ## Wireframe(s)
 
 > Include your wireframe(s) and link to wireframe
-
+![alt text](img/Design.png)
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
