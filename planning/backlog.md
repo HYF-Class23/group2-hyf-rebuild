@@ -7,24 +7,43 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
+As a user i want to see header that consists of logo and navigation bar
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- there is a _hyf_ logo on left part of the page
+- there are 8 fields in the navigation bar
 
-## Should-Haves
+As a user i want to see the title and video
 
-> these will complete the user experience, but are not necessary
+- there is the video with title on it
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+As a user i want to see the statistics
 
-## Could-Haves
+- there are 3 fields with student, graduate and women statistics
 
-> would be really cool ... if there's time
+As a user i want to see the more information about the school
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- there are 3 fields with images and paragraphs below them
+
+As a user i want to see the partners
+
+- there are 15 logos of the partners
+
+As a user i want to see the Alumni
+
+- there are 6 different reviews with photos
+
+As a user i want to see where to subscribe
+
+- there is one form to fill in
+
+As a user i want to see contact us
+
+- there is one form to fill in and map of location on the left side
+
+As a user i want to see support
+
+- there are 3 fields: support, volunteer and partnership with links
+
+As a user i want to see footer
+
+- there are more information about address and social media links
