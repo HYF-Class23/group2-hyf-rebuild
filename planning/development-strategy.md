@@ -6,7 +6,7 @@
 
 ## Setup
 
-- Create a  new repo
+- Create a new repo
 - add collaborators
 - turn on github pages and give them write access
 - protect main branch
@@ -40,7 +40,7 @@ As a user i want to see the title and video
 ### html
 
 - add div video tag inside div and h1
-  
+
 ### css
 
 - add flex
@@ -76,7 +76,7 @@ As a user i want to see the more information about the school
 - create div
 - add 3 img
 - add 3 p
-  
+
 ### css
 
 - add background borders
@@ -104,26 +104,26 @@ As a user i want to see the partners
 - add margin
 - add padding
 - create vertical align baseline
-  
+
 ## Alumni
 
-  As a user i want to see the Alumni
+As a user i want to see the Alumni
 
 - this user story is developed on branch _alumni_
-  
+
 ### html
 
 - add h2
 - add links
 - create div
-  
+
 ### css
 
 - add display box
 - add padding
 - add box-sizing
 - add position relative
-  
+
 ## Subscribe
 
 As a user i want to see where to subscribe
@@ -136,7 +136,7 @@ As a user i want to see where to subscribe
 - create form
 - create input
 - add button
-  
+
 ### css
 
 - add border
