@@ -20,7 +20,7 @@
 1. Adrien is searching for qualified applicants who can start working right
    away.
 
-![HR](./img/HR.jpeg)
+![HR](./img/hr.jpeg)
 
 - **Bio**: HR Recruiter @Colruyt Group
 - **Needs/Goals**:wants to open position immediately
