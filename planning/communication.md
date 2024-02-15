@@ -1,20 +1,26 @@
 # Communication
 
+- Zoom
+- Slack
+
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Reply on SLack, Zoom.
+- Approve PR as soon as possible
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day | How  | The topic of discussion |
+| --- | :--: | ----------------------- |
+| Tue | Zoom | Backlog, Design         |
+| Thu | Zoom | Development             |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+- Zoom
+- Slack
 
 - **Issues**:
 - **Pull Requests**:
@@ -28,17 +34,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Allan   |  06-12  |  06-12  |   06-12   |  06-12   |  06-12  |    NA    |  06-12  |
+| Vidushi | 17 - 23 | 17 - 23 |  17 - 23  | 17 - 23  | 17 - 23 | 17 - 23  | 17 - 23 |
+| Pallavi | 09 - 16 | 09 - 16 |  09 - 16  | 09 - 16  | 09 - 16 | 09 - 16  | 09 - 16 |
+| Stefan  | 18 - 22 | 18 - 22 |  18 - 22  | 18 - 22  | 18 - 22 | 18 - 22  | 18 - 22 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Stefan: _4h_;
+- Allan: _6h_;
+- Vidushi: _6h_;
+- Pallavi: _7h_;
 
 ## Asking for Help
 
