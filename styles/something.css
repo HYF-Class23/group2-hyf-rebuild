@@ -49,3 +49,63 @@ body {
 .article-color {
   background-color: rgb(219 219 219);
 }
+
+/* CONTACT US */
+
+.form-color {
+  background-color: rgb(40 89 182);
+}
+
+.form-title-design {
+  color: white;
+  padding: 15px;
+  font: bold normal normal 35px/1.35em oswald-medium, oswald, sans-serif;
+}
+
+.labels-style {
+  font: normal normal normal 14px/1.4em sans-serif;
+  color: white;
+  padding-left: 5px;
+}
+
+.fields-style {
+  background-color: #c6c8e4;
+  width: 80%;
+  margin: 5px;
+  height: 30px;
+  border-radius: 10px;
+  border: 2px solid rgb(40 89 182);
+}
+
+.message-field {
+  background-color: #c6c8e4;
+  width: 80%;
+  margin: 5px;
+  height: 70px;
+  border-radius: 10px;
+  border: 2px solid rgb(40 89 182);
+}
+
+.button-design {
+  width: 167px;
+  height: 36px;
+  margin: 20px;
+  color: rgb(40 89 182);
+  border-radius: 10px;
+  border: 2px solid rgb(40 89 182);
+}
+
+.contact-container {
+  overflow: hidden;
+}
+
+.contact-form {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.map-container {
+  float: left;
+  width: 20%;
+}
