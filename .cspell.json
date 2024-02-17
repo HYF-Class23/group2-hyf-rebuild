@@ -18,8 +18,7 @@
     "Wireframes",
     "who-are-we",
     "Yodiz",
-    "Zepel",
-    "Pallavi"
+    "Zepel"
   ],
   "ignorePaths": [
     "node_modules/**",
