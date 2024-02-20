@@ -1,6 +1,6 @@
 # Name of project
 
-> A longer description
+> HackYourFuture Belgium website rebuild
 
 ## Table of contents
 
@@ -22,29 +22,37 @@
 
 ## General info
 
-> A short description
+> The goal is to create website HYF using reverse engineering method.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/img/screenshot.jpg)
 
 ## Technologies
 
-- Node 14.16.0
+- Node 20.10.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- `git clone https://github.com/HYF-Class23/group2-hyf-rebuild.git`
+- `cd group2-hyf-rebuild`
+- `npm install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>group2-hyf-rebuild</title>
+
+    <link href="./styles/index.css" rel="stylesheet" />
+  </head>
 ```
 
 ## Features
@@ -66,11 +74,14 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by hackyourfuturebelgium.be
 
 ## Contact
 
-By [Name]
+- [Allan](https://github.com/AllanSaku)
+- [Stefan](https://github.com/stefan-000)
+- [Pallavi](https://github.com/pallavisarwar)
+- [Vidushi](https://github.com/vidushiseksaria)
 
 ## Instructions for use
 
