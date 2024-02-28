@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>group2-hyf-rebuild</title>
 
@@ -10,6 +11,31 @@
   </head>
 
   <body>
+    <div>
+      <div id="boxes-container">
+        <div class="boxes-container-boxes">
+          <h1 class="boxes-container-boxes-h1">+350</h1>
+          <pre
+            class="pre-text"
+          >Students graduated since<br>HackYourFuture Belgium was<br>launched in 2018</pre>
+        </div>
+
+        <div class="boxes-container-boxes">
+          <h1 class="boxes-container-boxes-h1">70%</h1>
+          <pre
+            class="pre-text"
+          >Of our graduates find an internship,<br>a job or start advanced studies.</pre>
+        </div>
+
+        <div class="boxes-container-boxes">
+          <h1 class="boxes-container-boxes-h1">+40%</h1>
+          <pre
+            class="pre-text"
+          >Women represent over 40% of our<br>students</pre>
+        </div>
+      </div>
+    </div>
+
     <!--   WHO WE ARE   -->
     <div>
       <h2 class="who-we-are-title">WHO ARE WE</h2>
@@ -58,6 +84,54 @@
         </div>
       </div>
     </div>
+
+    <!--newsletter-->
+    <div class="container">
+      <div class="form">
+        <div class="form-section">
+          <div class="group">
+            <pre class="heading">Subscribe to Our Newsletter</pre>
+          </div>
+          <div class="group">
+            <label for="firstname" class="label-title">First name</label>
+            <input
+              type="text"
+              id="firstname"
+              class="control"
+              placeholder="first name"
+            />
+          </div>
+
+          <div class="group">
+            <label for="lastname" class="label-title">Last name</label>
+            <input
+              type="text"
+              id="lastname"
+              class="control"
+              placeholder="last name"
+            />
+          </div>
+
+          <div class="group">
+            <label for="email" class="label-title">Email</label>
+            <input type="text" id="email" class="control" placeholder="email" />
+          </div>
+
+          <!-- <div class="g-recaptcha" data-sitekey="6LfTz3EpAAAAAAv33ksZK8TdcQJ7OnKPq1DSvCaz"></div>
+        <div class="group m20">
+          <input type="submit" id="name" class="btn" value="Sign Up">
+        </div> -->
+
+          <div
+            class="g-recaptcha"
+            data-sitekey="6Ldv5HEpAAAAAL61-abEdY60_zstFsQnT2xMUD48"
+          ></div>
+          <br />
+          <button id="name" class="btn" type="button">Sign Up</button>
+        </div>
+      </div>
+    </div>
+
     <!-- CONTACT US -->
     <section class="contact-container">
       <!-- Contact part, left side -->
