@@ -148,3 +148,63 @@ body {
   font-size: 20px;
   padding-bottom: 10px;
 }
+
+.body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.container {
+  width: 75%;
+  height: 75vh;
+  padding-top: 20px;
+}
+
+.form {
+  position: absolute;
+  padding: 10%;
+  text-align: left;
+  width: 80%;
+}
+
+.group {
+  margin-bottom: 10px;
+  width: 49%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #343492;
+}
+
+.control {
+  width: 100%;
+  padding: 6px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 3px solid;
+  border-radius: 0;
+  transition: all 2s;
+}
+
+.control:focus {
+  outline: none;
+  border-bottom-color: #343492;
+}
+
+.btn {
+  display: block;
+  width: auto;
+  padding: 13px;
+  border-radius: 0%;
+  cursor: pointer !important;
+  font-size: 20px;
+  color: #343492;
+}
+
+.m20 {
+  margin-bottom: auto;
+}
+
+.heading {
+  font-size: 38px;
+  letter-spacing: normal;
+  font-weight: 100;
+}
